@@ -1,5 +1,3 @@
-# Pattern-Recognition
-
 # Linear Regression Implementation (Basic)
 
 This repository contains a basic implementation of the initialization of a linear regression model using Python and NumPy. The code prepares the feature matrix for linear regression by adding a bias term (intercept) but does not yet implement the actual learning process (gradient descent).
